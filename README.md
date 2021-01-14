@@ -38,7 +38,7 @@ The code for each example is located in a separate folder under `src`.
 A code example can be run by uncommenting it in `src/index.js`. This renders the _App_ component for that example. 
 
 ## feed/v1
-This example demonstrates the fundamentals of coding React components, including JSX syntax and rendering lists,
+This example demonstrates the fundamentals of coding React components, including JSX syntax and rendering lists.
 
 ## todo
 This example demonstrates component styling, event handling, hooks and parent / child component communication.
